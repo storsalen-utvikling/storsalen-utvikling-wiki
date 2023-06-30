@@ -2,13 +2,17 @@ import {defineConfig} from 'vitepress'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-    title: "Wiki",
+    title: "Storsalen Utvikling",
     titleTemplate: "Storsalen Utvikling | :title",
     description: "Wiki for å samle informasjon for utviklere i Storsalen",
     lang: "nb-NO",
     lastUpdated: true,
+    head: [
+        ['link', { rel: "icon", type: "image/png", sizes: "72x72", href: "/storsalen-128x128.png"}],
+    ],
     themeConfig: {
         // https://vitepress.dev/reference/default-theme-config
+        logo: '/storsalen-128x128.png',
         nav: [
             {text: 'Hjem', link: '/'},
             {text: 'Om Oss', link: '/about/'},
