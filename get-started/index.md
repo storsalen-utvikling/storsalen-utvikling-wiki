@@ -1,49 +1,28 @@
----
-outline: deep
----
+# Kom i gang
 
-# Runtime API Examples
+Hei, og velkommen til Storsalen Utvikling! 👋
 
-This page demonstrates usage of some of the runtime APIs provided by VitePress.
+For å komme i gang med å bidra til våre applikasjoner trenger du aller først tilgang til diverse systemer. Denne siden
+tar deg gjennom det du må gjøre for å få tilgangene du trenger, deretter kan du hoppe videre til oppsett-sidene for mer
+spesifikke ting, som Storsalen Appen.
 
-The main `useData()` API can be used to access site, theme, and page data for the current page. It works in both `.md` and `.vue` files:
+## GitHub
 
-```md
-<script setup>
-import { useData } from 'vitepress'
+::: danger TODO
+Denne må fylles ut
+:::
 
-const { theme, page, frontmatter } = useData()
-</script>
+## TeamCity
 
-## Results
+Vi benytter [TeamCity](https://www.jetbrains.com/teamcity/) som byggserver for våre applikasjoner, vår instans finner du
+på [bygg.storsalen.no](https://bygg.storsalen.no). For mer info om hvordan vi har satt opp byggserveren og hvordan den
+skal brukes, se [Verktøy/TeamCity](/tools/team-city.md). For å få tilgang, send en e-post til
+storsalen.utvikling@gmail.com med følgende innhold
 
-### Theme Data
-<pre>{{ theme }}</pre>
+::: info _(Emnefelt: Tilgang til TeamCity)_
+Hei, jeg ønsker tilgang til Storsalens TeamCity
 
-### Page Data
-<pre>{{ page }}</pre>
-
-### Page Frontmatter
-<pre>{{ frontmatter }}</pre>
-```
-
-<script setup>
-import { useData } from 'vitepress'
-
-const { site, theme, page, frontmatter } = useData()
-</script>
-
-## Results
-
-### Theme Data
-<pre>{{ theme }}</pre>
-
-### Page Data
-<pre>{{ page }}</pre>
-
-### Page Frontmatter
-<pre>{{ frontmatter }}</pre>
-
-## More
-
-Check out the documentation for the [full list of runtime APIs](https://vitepress.dev/reference/runtime-api#usedata).
+**Fullt navn:** &lt;Ditt navn&gt;  
+**Ønsket brukernavn:** &lt;Brukernavnet du ønsker å benytte&gt;  
+**E-postadresse:** &lt;E-postadressen din&gt;  
+:::

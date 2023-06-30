@@ -1,85 +1,26 @@
-# Markdown Extension Examples
+# Storsalen Utvikling
 
-This page demonstrates some of the built-in markdown extensions provided by VitePress.
+Storsalen Utvikling er en del av Webkompaniet. Webkompaniet er en gjeng med frivillige med tilknytning til Storsalen som
+samles annenhver uke for å jobbe med IT-systemene som brukes av Storsalen.
 
-## Syntax Highlighting
+## Vår visjon
 
-VitePress provides Syntax Highlighting powered by [Shiki](https://github.com/shikijs/shiki), with additional features like line-highlighting:
+Vi vet at det er mange som går i Storsalen som jobber med, studerer, eller er interessert i IT. Vi håper Storsalen
+Utvikling kan bli en arena hvor IT-interesserte i Storsalen som ønsker å ha en tjeneste kan komme og bruke sine
+talenter. Vi tror også at Storsalen Utvikling kan bidra til å ruste studenter for arbeidslivet, både gjennom å få
+erfaring med utvikling i team, men også gjennom å knytte nettverk med andre i Storsalen som jobber med IT og som kan
+dele erfaringer om det å være kristen i arbeidslivet.
 
-**Input**
+## Vil du bli med?
 
-````
-```js{4}
-export default {
-  data () {
-    return {
-      msg: 'Highlighted!'
-    }
-  }
-}
-```
-````
-
-**Output**
-
-```js{4}
-export default {
-  data () {
-    return {
-      msg: 'Highlighted!'
-    }
-  }
-}
-```
-
-## Custom Containers
-
-**Input**
-
-```md
-::: info
-This is an info box.
+::: info Samlinger
+Vi har samlinger annenhver uke på mandager fra 18-21
 :::
 
-::: tip
-This is a tip.
+::: tip Vil du være med?
+Snakk med Eirik Klungland Isene eller send en mail til storsalen.utvikling@gmail.com
 :::
 
-::: warning
-This is a warning.
+::: danger TODO
+Lag info om andre "ikke-tekniske" roller (prosjektleder, etc.)
 :::
-
-::: danger
-This is a dangerous warning.
-:::
-
-::: details
-This is a details block.
-:::
-```
-
-**Output**
-
-::: info
-This is an info box.
-:::
-
-::: tip
-This is a tip.
-:::
-
-::: warning
-This is a warning.
-:::
-
-::: danger
-This is a dangerous warning.
-:::
-
-::: details
-This is a details block.
-:::
-
-## More
-
-Check out the documentation for the [full list of markdown extensions](https://vitepress.dev/guide/markdown).
