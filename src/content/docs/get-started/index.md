@@ -16,7 +16,7 @@ Denne må fylles ut
 
 Vi benytter [TeamCity](https://www.jetbrains.com/teamcity/) som byggserver for våre applikasjoner, vår instans finner du
 på [bygg.storsalen.no](https://bygg.storsalen.no). For mer info om hvordan vi har satt opp byggserveren og hvordan den
-skal brukes, se [Verktøy/TeamCity](/tools/team-city.md). For å få tilgang, send en e-post til
+skal brukes, se [Verktøy/TeamCity](/src/content/docs/toolsontent/docs/tools/team-city.md). For å få tilgang, send en e-post til
 storsalen.utvikling@gmail.com med følgende innhold
 
 ::: info _(Emnefelt: Tilgang til TeamCity)_

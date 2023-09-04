@@ -42,5 +42,5 @@ testem.log
 Thumbs.db
 
 # VitePress
-.vitepress/dist
-.vitepress/cache
+src/content/docs/.vitepress/dist
+src/content/docs/.vitepress/cache
