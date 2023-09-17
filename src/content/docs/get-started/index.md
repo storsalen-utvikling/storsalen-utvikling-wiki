@@ -8,8 +8,18 @@ spesifikke ting, som Storsalen Appen.
 
 ## GitHub
 
-::: danger TODO
-Denne må fylles ut
+Vi benytter [GitHub](https://www.github.com) for flere ting, men kanskje viktigst av alt er det her vi sammarbeider om
+koden som ligger bak våre løsninger. Vår GitHub finner
+på [github.com/storsalen-utvikling](https://github.com/storsalen-utvikling). For mer informasjon om hvordan vi bruker
+GitHub, se [Verktøy/GitHub](/tools/github.md). For å få tilgang, send en e-post til storsalen.utvikling@gmail.com med
+følgende innhold
+
+::: info _(Emnefelt: Tilgang til GitHub)_
+Hei, jeg ønsker tilgang til Storsalens GitHub  
+  
+**Fullt navn:** &lt;Ditt navn&gt;  
+**E-postadresse:** &lt;E-postadressen din&gt;  
+**Brukernavn på GitHub:** &lt;Ditt brukernavn&gt;  
 :::
 
 ## TeamCity
