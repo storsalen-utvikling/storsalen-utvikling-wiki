@@ -21,7 +21,7 @@ Vi har samlinger annenhver uke på mandager fra 18-21 📆
 Snakk med Eirik Klungland Isene eller send en mail til storsalen.utvikling@gmail.com ✉️
 :::
 
-::: danger Har du ikke teknisk kompentanse?
+::: warning Har du ikke teknisk kompentanse?
 Det kan godt hende vi har bruk for deg likevel! IT-prosjekter krever ressurser, alt fra ledelse til folk som driver med
-testing. Ta kontakt hvis du er interessert i å bli med, så finner vi noe som passer.
+testing og mye mer. Ta kontakt hvis du er interessert i å bli med, så finner vi noe som passer.
 :::
