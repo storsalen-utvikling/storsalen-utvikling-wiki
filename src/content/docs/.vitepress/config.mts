@@ -19,6 +19,7 @@ export default defineConfig({
         ],
         editLink: {
             pattern: 'https://github.com/storsalen-utvikling/storsalen-utvikling-wiki/edit/main/src/content/docs/:path',
+            text: 'Rediger denne siden',
         },
         sidebar: [
             {

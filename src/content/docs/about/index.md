@@ -14,13 +14,14 @@ dele erfaringer om det å være kristen i arbeidslivet.
 ## Vil du bli med?
 
 ::: info Samlinger
-Vi har samlinger annenhver uke på mandager fra 18-21
+Vi har samlinger annenhver uke på mandager fra 18-21 📆
 :::
 
 ::: tip Vil du være med?
-Snakk med Eirik Klungland Isene eller send en mail til storsalen.utvikling@gmail.com
+Snakk med Eirik Klungland Isene eller send en mail til storsalen.utvikling@gmail.com ✉️
 :::
 
-::: danger TODO
-Lag info om andre "ikke-tekniske" roller (prosjektleder, etc.)
+::: danger Har du ikke teknisk kompentanse?
+Det kan godt hende vi har bruk for deg likevel! IT-prosjekter krever ressurser, alt fra ledelse til folk som driver med
+testing. Ta kontakt hvis du er interessert i å bli med, så finner vi noe som passer.
 :::
